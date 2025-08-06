@@ -8,7 +8,7 @@ This project addresses this crucial need by researching and training supervised 
 
 ## Data Source
 
-Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features/code?datasetId=209295&sortBy=voteCount)*
+Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/dipayanbiswas/parkinsons-disease-speech-signal-features/code?datasetId=209295&sortBy=voteCount)
 
 ## Technologies Used <!--- do not change this line -->
 - *Python*
