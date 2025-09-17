@@ -14,7 +14,7 @@ Kaggle Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/dipayan
 Sakar, C.O., Serbes, G., Gunduz, A., Tunc H.C., Nizam, H., Sakar, B.E., Tutuncu, M., Aydin, T., Isenkul, M.E., &
 Apaydin, H. (2019). A comparative analysis of speech signal processing algorithms for Parkinson’s
 disease classification and the use of the tunable Q-factor wavelet transform. Applied Soft Computing, 74,
-255-263.https://doi.org/10.1016/j.asoc.2018.10.022. [ScienceDirect] [Kaggle Dataset]
+255-263.https://doi.org/10.1016/j.asoc.2018.10.022.
 
 ## Technologies Used <!--- do not change this line -->
 - *Python*
